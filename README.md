@@ -1,3 +1,4 @@
+# The Paper is now available to read here: https://arxiv.org/abs/2511.17666
 The recent boom and rapid integration of Large Language Models (LLMs) into a wide range of applications warrants a deeper understanding of their security and safety vulnerabilities. This project makes a comparative analysis of the jailbreak attack susceptibility for two leading publicly available LLMs - Google’s Gemini 2.5 Flash and OpenAI’s GPT-4 (specifically the GPT-4o mini model accessible in the free tier). 
 
 The research utilized two main bypass strategies: ‘self-bypass’, where models were prompted to circumvent their own safety protocols and ‘cross-bypass’, where one model generated adversarial prompts to exploit vulnerabilities in the other.
